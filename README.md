@@ -1,4 +1,4 @@
-# Major Project: Object Detection for Autonomous Vehicles (Indian Scenario)
+# Object Detection for Autonomous Vehicles (Indian Scenario)
 
 This repository contains the training, tuning, and evaluation notebooks for a YOLOv8-based object detection model tailored for the Indian road environment. The goal of this project is to perform robust object detection for autonomous vehicles (AV), addressing unique challenges present in Indian scenarios such as stray animals, rickshaws, and potholes.
 
